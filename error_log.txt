@@ -1,0 +1,1 @@
+2024-10-15 10:10:37 - Error [2] in C:\xampp\htdocs\TechnoTVPrototype\index.php on line 22: Undefined variable $conn

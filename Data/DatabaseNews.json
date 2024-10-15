@@ -1,0 +1,80 @@
+{
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "age": 30,
+    "hobbies": [
+        "reading",
+        "swimming",
+        "coding"
+    ],
+    "0": {
+        "name": "Jane Doe",
+        "email": "jane.doe@example.com",
+        "age": 28,
+        "hobbies": [
+            "painting",
+            "hiking",
+            "traveling"
+        ]
+    },
+    "1": {
+        "name": "Jane Doe",
+        "email": "jane.doe@example.com",
+        "age": 28,
+        "hobbies": [
+            "painting",
+            "hiking",
+            "traveling"
+        ]
+    },
+    "2": {
+        "name": "Jane Doe",
+        "email": "jane.doe@example.com",
+        "age": 28,
+        "hobbies": [
+            "painting",
+            "hiking",
+            "traveling"
+        ]
+    },
+    "3": {
+        "name": "Jane Doe",
+        "email": "jane.doe@example.com",
+        "age": 28,
+        "hobbies": [
+            "painting",
+            "hiking",
+            "traveling"
+        ]
+    },
+    "4": {
+        "name": "Jane Doe",
+        "email": "jane.doe@example.com",
+        "age": 28,
+        "hobbies": [
+            "painting",
+            "hiking",
+            "traveling"
+        ]
+    },
+    "5": {
+        "name": "Jane Doe",
+        "email": "jane.doe@example.com",
+        "age": 28,
+        "hobbies": [
+            "painting",
+            "hiking",
+            "traveling"
+        ]
+    },
+    "6": {
+        "name": "Jane Doe",
+        "email": "jane.doe@example.com",
+        "age": 28,
+        "hobbies": [
+            "painting",
+            "hiking",
+            "traveling"
+        ]
+    }
+}
